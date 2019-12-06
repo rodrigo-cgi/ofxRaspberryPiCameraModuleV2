@@ -34,3 +34,7 @@ bin/particlesCam_01
 *.exe
 *.out
 *.app
+
+# vsCode
+.vscode/
+vscode_oF.code-workspace
