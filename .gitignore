@@ -1,6 +1,5 @@
 obj/
-bin/libfmodex.so
-bin/particlesCam_01
+bin/
 
 # Prerequisites
 *.d
